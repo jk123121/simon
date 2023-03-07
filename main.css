@@ -15,6 +15,11 @@ footer
     flex: 0 30px;
 }
 
+footer a {
+  float: right;
+  padding-right: 0.5em;
+}
+
 menu
 {
     flex: 1;
