@@ -32,5 +32,5 @@ function loadScores() {
     }
   }
   
-  loadScores();
+loadScores();
   
